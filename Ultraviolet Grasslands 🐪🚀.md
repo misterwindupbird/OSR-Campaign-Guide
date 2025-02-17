@@ -1,5 +1,6 @@
+# Ultraviolet Grasslands 🐪🚀
 
-![[Pasted image 20250217111247.png]]
+![image](<images/Pasted image 20250217111247.png>)
 
 A psychedelic science-fantasy road trip across a dying world.
 
