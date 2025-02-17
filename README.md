@@ -17,7 +17,7 @@ Each setting entry contains:
 - Links and inter-file references help navigate different aspects.  
 - Some sections may still be a work in progress.  
 
-
+## Summary and Index
 
 | **Setting**                                        | **Size**     | Genre                          | **System**                         | **Inspirations**                                                  | **Dungeon** | **City** | **Wilderness** | **Factions** | **Weirdness** | **Vibe**    |
 | -------------------------------------------------- | ------------ | ------------------------------ | ---------------------------------- | ----------------------------------------------------------------- | ----------- | -------- | -------------- | ------------ | ------------- | ----------- |
@@ -43,9 +43,9 @@ At first glance, all these settings seem like **variations on OSR themes**, but 
 
 These are for people who **love** dungeons. Not just like them—**love** them. The kind of people who think in **10-foot poles** and **hirelings as disposable assets** rather than charming side characters.
 
-• **Arden Vul** – The **cathedral** of OSR megadungeons: sprawling, full of factions, and unapologetically lethal.
-• **Stonehell Dungeon** – The **workhorse** of OSR dungeons: modular, expandable, lethal, and perfect for low-prep play.
-• **Gods of the Forbidden North** – Not **just** a dungeon but a savage arctic sandbox ("icebox"?) where _the world itself_ wants to kill you.
+- **Arden Vul** – The **cathedral** of OSR megadungeons: sprawling, full of factions, and unapologetically lethal.
+- **Stonehell Dungeon** – The **workhorse** of OSR dungeons: modular, expandable, lethal, and perfect for low-prep play.
+- **Gods of the Forbidden North** – Not **just** a dungeon but a savage arctic sandbox ("icebox"?) where _the world itself_ wants to kill you.
 
 ✅ **Best for:** Players who enjoy **mapping, resource management, and tactical dungeoneering.**
 
@@ -55,9 +55,9 @@ These are for people who **love** dungeons. Not just like them—**love** them. 
 
 The complement of dungeon-crawling—these are **vast, player-driven, and open-ended**. The real challenge isn’t goblins in a room, but **the journey itself**.
 
-• **Ultraviolet Grasslands (UVG)** – The ultimate _Oregon Trail on acid_. PCs will die **not** because of combat but **logistics and bad decisions**.
-• **Hot Springs Island** – A hexcrawl that’s **alive**. No static encounters—everything reacts to player actions, which makes it a **sandbox in the truest sense**.
-• **A Thousand Thousand Islands** – A dreamlike, Southeast Asian-flavored **social and exploratory** hexcrawl that’s as much about **culture** as it is about **adventure**.
+- **Ultraviolet Grasslands (UVG)** – The ultimate _Oregon Trail on acid_. PCs will die **not** because of combat but **logistics and bad decisions**.
+- **Hot Springs Island** – A hexcrawl that’s **alive**. No static encounters—everything reacts to player actions, which makes it a **sandbox in the truest sense**.
+- **A Thousand Thousand Islands** – A dreamlike, Southeast Asian-flavored **social and exploratory** hexcrawl that’s as much about **culture** as it is about **adventure**.
 
 ✅ **Best for:** Players who **like improvisation**, and GMs who want to **react to the players, not railroad them.**
 
@@ -67,9 +67,9 @@ The complement of dungeon-crawling—these are **vast, player-driven, and open-e
 
 If you want to **drown your players in weirdness** and make them question **reality itself**, these settings deliver.
 
-• **Veins of the Earth** – The **hardest, meanest, most oppressive survival horror** in OSR. Light is a resource. Madness is real. Space itself is out to kill you. It’s **brilliant but borderline unplayable as a long campaign**.
-• **Through Ultan’s Door** – **The most dreamlike** setting on the list. Feels like running a campaign inside **a forgotten Borges manuscript**, where courtly intrigue happens **in a city that shouldn’t exist**.
-• **Anomalous Subsurface Environment** – Imagine **Gamma World but if Gary Gygax and Jack Vance were drunk**. This is where **mutant cowboys** fight **robotic librarians** in the ruins of **Earth-but-not-Earth**.
+- **Veins of the Earth** – The **hardest, meanest, most oppressive survival horror** in OSR. Light is a resource. Madness is real. Space itself is out to kill you. It’s **brilliant but borderline unplayable as a long campaign**.
+- **Through Ultan’s Door** – **The most dreamlike** setting on the list. Feels like running a campaign inside **a forgotten Borges manuscript**, where courtly intrigue happens **in a city that shouldn’t exist**.
+- **Anomalous Subsurface Environment** – Imagine **Gamma World but if Gary Gygax and Jack Vance were drunk**. This is where **mutant cowboys** fight **robotic librarians** in the ruins of **Earth-but-not-Earth**.
 
 ✅ **Best for:** **Deep roleplayers and explorers** who thrive in **alien environments**.
 
@@ -79,9 +79,9 @@ If you want to **drown your players in weirdness** and make them question **real
   
 These settings **de-emphasize dungeon crawling** and instead focus on **climbing power structures, backstabbing enemies, and making alliances**.
 
-• **Yoon-Suin (The Yellow City)** – **Procedural opium-fueled nightmare intrigue.** Every session can **redefine the world**, because there’s no fixed setting—just **generators for culture, factions, and stories**.
-• **Blades in the Dark** – **The anti-OSR OSR game.** PCs are **powerful criminals** rather than fragile nobodies. Instead of _dying in a pit_, they _scheme, betray, and hustle their way to the top_.
-• **His Majesty the Worm** – Imagine _Dungeon Meshi_ crossed with **Ritualistic Guild Politics** and **interparty dynamics**. It’s **not** about kicking down doors—it’s about **negotiating with sentient fungi** and **performing weird rites to survive**.
+- **Yoon-Suin (The Yellow City)** – **Procedural opium-fueled nightmare intrigue.** Every session can **redefine the world**, because there’s no fixed setting—just **generators for culture, factions, and stories**.
+- **Blades in the Dark** – **The anti-OSR OSR game.** PCs are **powerful criminals** rather than fragile nobodies. Instead of _dying in a pit_, they _scheme, betray, and hustle their way to the top_.
+- **His Majesty the Worm** – Imagine _Dungeon Meshi_ crossed with **Ritualistic Guild Politics** and **interparty dynamics**. It’s **not** about kicking down doors—it’s about **negotiating with sentient fungi** and **performing weird rites to survive**.
   
 ✅ **Best for:** Players who want **scheming, power plays, and influence** over the world.
 
@@ -91,42 +91,41 @@ These settings **de-emphasize dungeon crawling** and instead focus on **climbing
   
 If you still **can’t decide**, let’s cut to the chase:
 
-• **Want the best megadungeon?** → _Arden Vul_
+**Want the best megadungeon?** → _Arden Vul_
 
-• **Want to feel like you’re in a Jack Vance or Gene Wolfe novel?** → _Ultraviolet Grasslands_
+**Want to feel like you’re in a Jack Vance or Gene Wolfe novel?** → _Ultraviolet Grasslands_
 
-• **Want a Ghibli-esque survival hexcrawl?** → _Hot Springs Island_
+**Want a Ghibli-esque survival hexcrawl?** → _Hot Springs Island_
 
-• **Want eldritch Norse/Inuit survival horror?** → _Gods of the Forbidden North_
+**Want eldritch Norse/Inuit survival horror?** → _Gods of the Forbidden North_
 
-• **Want a truly alien dungeon crawl?** → _Veins of the Earth_
+**Want a truly alien dungeon crawl?** → _Veins of the Earth_
 
-• **Want intricate faction play?** → _Yoon-Suin_
+**Want intricate faction play?** → _Yoon-Suin_
 
-• **Want to play out a criminal empire?** → _Blades in the Dark_
+**Want to play out a criminal empire?** → _Blades in the Dark_
 
-• **Want dreamlike adventure in a setting that feels real?** → _A Thousand Thousand Islands_
+**Want dreamlike adventure in a setting that feels real?** → _A Thousand Thousand Islands_
 
-• **Want the best of all worlds, but set in a decadent, unknowable Dream-City?** → _Through Ultan’s Door_
+**Want the best of all worlds, but set in a decadent, unknowable Dream-City?** → _Through Ultan’s Door_
 
 ### **Closing Thoughts**
   
 No matter which one you pick, **you’re getting something unique**. The real question is **how much structure do you want?**
 
-• **Tightly designed?** → _Stonehell, Blades in the Dark_
+- **Tightly designed?** → _Stonehell, Blades in the Dark_
 
-• **Player-driven sandbox?** → _Hot Springs Island, UVG, Yoon-Suin_
+- **Player-driven sandbox?** → _Hot Springs Island, UVG, Yoon-Suin_
 
-• **Completely surreal, emergent setting?** → _Through Ultan’s Door, Veins of the Earth_
+- **Completely surreal, emergent setting?** → _Through Ultan’s Door, Veins of the Earth_
 
-• **How much weirdness can your group handle?**
+**How much weirdness can your group handle?**
 
-• **Low (Classic OSR dungeon delves)?** → _Arden Vul, Stonehell_
+- **Low (Classic OSR dungeon delves)?** → _Arden Vul, Stonehell_
 
-• **Medium (Faction intrigue, exotic cultures)?** → _Yoon-Suin, A Thousand Thousand Islands_
+- **Medium (Faction intrigue, exotic cultures)?** → _Yoon-Suin, A Thousand Thousand Islands_
 
-• **MAXIMUM UNHINGED MADNESS?** → _Veins of the Earth, ASE_
-
+- **MAXIMUM UNHINGED MADNESS?** → _Veins of the Earth, ASE_
   
 
 If you tell me **more about your players**, I can make **even more specific recommendations**—but at this point, I’d say **pick your poison** and **dive in**.
