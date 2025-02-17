@@ -1,3 +1,23 @@
+# OSR Settings Overview  
+
+This document is a **reference guide** for comparing and organizing various OSR campaign settings. It’s structured to help with **choosing, running, or adapting** these settings by breaking down their key elements, tone, and playstyle.  
+
+## What’s Included  
+Each setting entry contains:  
+- **A high-level summary** of the setting and its main themes.  
+- **Tone & inspirations** for understanding the aesthetic and feel.  
+- **Gameplay focus** (e.g., dungeon crawling, hexcrawling, faction intrigue).  
+- **Unique mechanics or worldbuilding features** that set it apart.  
+- **Example adventure hooks** for quick idea generation.  
+- **Pros & cons** to help weigh strengths and weaknesses.  
+
+## How to Use This  
+- This is **not** a comprehensive review—just notes for quick reference.  
+- Entries are formatted for easy comparison when choosing a setting.  
+- Links and inter-file references help navigate different aspects.  
+- Some sections may still be a work in progress.  
+
+
 
 | **Setting**                                        | **Size**     | Genre                          | **System**                         | **Inspirations**                                                  | **Dungeon** | **City** | **Wilderness** | **Factions** | **Weirdness** | **Vibe**    |
 | -------------------------------------------------- | ------------ | ------------------------------ | ---------------------------------- | ----------------------------------------------------------------- | ----------- | -------- | -------------- | ------------ | ------------- | ----------- |
