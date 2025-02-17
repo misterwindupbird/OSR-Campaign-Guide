@@ -53,7 +53,7 @@ These are for people who **love** dungeons. Not just like them—**love** them. 
 
 ### **The Wilderness Hexcrawl / Procedural Settings**
 
-The complement of dungeon-crawling—these are **vast, player-driven, and open-ended**. The real challenge isn’t goblins in a room, but **the journey itself**.
+The flip side of dungeon-crawling—these are **vast, player-driven, and open-ended**. The real challenge isn’t goblins in a room, but **the journey itself**.
 
 - **Ultraviolet Grasslands (UVG)** – The ultimate _Oregon Trail on acid_. PCs will die **not** because of combat but **logistics and bad decisions**.
 - **Hot Springs Island** – A hexcrawl that’s **alive**. No static encounters—everything reacts to player actions, which makes it a **sandbox in the truest sense**.
@@ -81,7 +81,7 @@ These settings **de-emphasize dungeon crawling** and instead focus on **climbing
 
 - **Yoon-Suin (The Yellow City)** – **Procedural opium-fueled nightmare intrigue.** Every session can **redefine the world**, because there’s no fixed setting—just **generators for culture, factions, and stories**.
 - **Blades in the Dark** – **The anti-OSR OSR game.** PCs are **powerful criminals** rather than fragile nobodies. Instead of _dying in a pit_, they _scheme, betray, and hustle their way to the top_.
-- **His Majesty the Worm** – Imagine _Dungeon Meshi_ crossed with **Ritualistic Guild Politics** and **interparty dynamics**. It’s **not** about kicking down doors—it’s about **negotiating with sentient fungi** and **performing weird rites to survive**.
+- **His Majesty the Worm** – Imagine _Dungeon Meshi_ crossed with **Ritualistic Guild Politics** and **interparty dynamics**. It’s **not** about kicking down doors—it’s about **negotiating with sentient fungi** and **bonding with your fellow weirdos** to survive.
   
 ✅ **Best for:** Players who want **scheming, power plays, and influence** over the world.
 
