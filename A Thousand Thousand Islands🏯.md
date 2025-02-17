@@ -1,4 +1,6 @@
+# A Thousand Thousand Islands 🏯🏯🏯
 
+![image](https://img.itch.zone/aW1hZ2UvNzE2NDQwLzM5NzEwOTIuanBn/original/vJBXnZ.jpg)
 
 ### **Tone & Inspirations:**
 
