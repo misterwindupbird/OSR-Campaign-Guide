@@ -1,4 +1,7 @@
-[![Yoon-Suin - Noisms Games | DriveThruRPG](https://d1vzi28wh99zvq.cloudfront.net/images/7792/144820.png)
+# Yoon-Suin 🏮🐘🌊
+
+![Yoon-Suin - Noisms Games | DriveThruRPG](https://d1vzi28wh99zvq.cloudfront.net/images/7792/144820.png)
+
 ### Yoon-Suin: The Yellow City and Beyond
 
 Yoon-Suin is a setting of **opium smoke, caste politics, ruined dynasties, and esoteric mysteries**. The Yellow City, once a mighty empire, now drifts in a haze of decadence and forgotten glory, its noble **slug-men** presiding over tea houses and trading in **secrets as much as in gold**. Beyond it lie the **warring human kingdoms** of the Hundred Sultanates, the mist-shrouded **Mountains of the Moon**, and the **river labyrinths of Lamarakh**, each teeming with adventure, peril, and strange customs.
