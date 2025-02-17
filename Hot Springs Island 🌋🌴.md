@@ -1,6 +1,6 @@
 
 
-![[Pasted image 20250217110458.png]]
+![Pasted image 20250217110458.png](<images/Pasted image 20250217110458.png>)
 
 
 ### Overview
