@@ -1,4 +1,6 @@
+# His Majesty the Worm 🕯️
 
+![image](<images/Screenshot 2025-02-17 at 13.33.51.png>)
 
 A **structured, phase-based dungeon-crawling RPG** set in a vast, mythic **Underworld** beneath a sprawling **City**.
 
