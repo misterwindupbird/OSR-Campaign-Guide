@@ -1,6 +1,6 @@
+# Hot Springs Island 🌋🌴
 
-
-![Pasted image 20250217110458.png](<images/Pasted image 20250217110458.png>)
+![images/Pasted image 20250217110458.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjInT1ln-DVKsAVQHAa3tgE7DbLRqF-FRfsUYVVTXX_whSbie0x9o5C3UU70X0kySHutWl5kFMK4WSzhEkTIypDZn1axj9maIrcUSKYIMkIn9Mov_FK_PEV2ClL1rPlKC_uxoNFU1BCFVZP/w400-h308/hsimap.jpg)
 
 
 ### Overview
