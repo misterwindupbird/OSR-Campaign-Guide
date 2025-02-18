@@ -4,7 +4,7 @@ This is a working document for comparing, running, and choosing between various 
 
 If you’re looking for deadly megadungeons, player-driven hexcrawls, or faction-infested intrigue, you’re in the right place.  
 
-
+![image](<images/image.png>)
 
 ## 📌 Quick Pitch: What’s the Right Setting for You?  
 
