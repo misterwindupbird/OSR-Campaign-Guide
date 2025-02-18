@@ -4,7 +4,7 @@ This is a working document for comparing, running, and choosing between various 
 
 If you’re looking for deadly megadungeons, player-driven hexcrawls, or faction-infested intrigue, you’re in the right place.  
 
----
+
 
 ## 📌 Quick Pitch: What’s the Right Setting for You?  
 
@@ -24,7 +24,7 @@ If you don’t want to wade through descriptions and just need a fast answer, st
 
 Still **unsure**? Keep reading.  
 
----
+
 
 ## 📖 Index  
 
@@ -35,7 +35,7 @@ Still **unsure**? Keep reading.
 - [🛠️ Closing Thoughts: How Weird Do You Want to Get?](#-aside-how-much-weirdness-can-your-group-handle)  
 - [📊 OSR Settings Table (Comparison Chart)](#-osr-settings-table)  
 
----
+
 
 ## 🏰 Classic OSR Dungeon Crawlers  
 
@@ -48,7 +48,7 @@ These are for people who love** dungeons. Not just _like_ them—_love_ them. Yo
 ✅ **Best for:** Players who enjoy **mapping, resource management, and tactical dungeoneering.**  
 ❌ **Skip if:** You want deep social play or character-driven storytelling—this is about **surviving the dungeon**, not **drama**.  
 
----
+
 
 ## 🌍 The Wilderness Hexcrawl & Procedural Settings  
 
@@ -61,7 +61,7 @@ Here, the real challenge isn’t goblins in a room—it’s the journey itself. 
 ✅ **Best for:** Players who like improvisation, and GMs who want to react to players, not railroad them.  
 ❌ **Skip if:** Your group needs structure—these can feel aimless without player-driven action.  
 
----
+
 
 ## 🌙 The Surreal & The Strange  
 
@@ -74,7 +74,7 @@ If you want to drown in weirdness, these settings deliver. The world does _not_ 
 ✅ **Best for:** Deep roleplayers and explorers who thrive in alien environments.  
 ❌ **Skip if:** You want _clear objectives_ and _predictable mechanics_.  
 
----
+
 
 ## 🕵️ Faction & Intrigue Play (Social Combat > Dungeon Combat)  
 
@@ -88,7 +88,7 @@ These settings de-emphasize dungeon crawling in favor of climbing power structur
 ❌ **Skip if:** Your group wants clear objectives and action-focused play—these settings are slow burns.  
 
 
----
+
 
 
 ## 📊 OSR Settings Table  
