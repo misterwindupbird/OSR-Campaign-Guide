@@ -10,22 +10,19 @@ If you’re looking for deadly megadungeons, player-driven hexcrawls, or faction
 
 If you don’t want to wade through descriptions and just need a fast answer, start here:  
 
-🎲 Want **the best megadungeon**? → _Arden Vul_  
-🚀 Want a Moebius-inspired **psychedelic metal** album of a game? → _Ultraviolet Grasslands_  
-🦇 Want **folk-horror D&D**, built on British folklore, weird mushrooms, and everything unsettling about the fae? → _Dolmenwood_  
-🌿 Want a richly-imagined **pulp adventure** hexcrawl? → _Hot Springs Island_  
-❄️ Want brutal dungeons, frozen wastelands, and an **adventure path that escalates to cosmic horror?** → _Gods of the Forbidden North_  
-🦇 Want a **surreal dungeon-crawl** with structured play? → _His Majesty the Worm_  
-💀 Want a **truly alien underworld**? → _Veins of the Earth_  
-🏮 Want **decadent intrigue** & procedural worldbuilding? → _Yoon-Suin_  
-🕵️ Want to play out a **criminal empire**? → _Blades in the Dark_  
-🏯 Want **dreamlike adventure** in a setting that feels real? → _A Thousand Thousand Islands_  
-🎭 Want a little bit of everything, but in a **decadent, unknowable Dream-City?** → _Through Ultan’s Door_  
+🎲 Want **the best megadungeon**? → [_The Halls of Arden Vul_](<The Halls of Arden Vul 🏛️.md>)  
+🚀 Want a Moebius-inspired **psychedelic metal** album of a game? → [_Ultraviolet Grasslands_](<Ultraviolet Grasslands 🐪🚀.md>)  
+🦇 Want **folk-horror D&D**, built on British folklore, weird mushrooms, and everything unsettling about the fae? → [_Dolmenwood_](<Dolmenwood 🍄🌲.md>)  
+🌿 Want a richly-imagined **pulp adventure** hexcrawl? → [_Hot Springs Island_](<Hot Springs Island 🌋🌴.md>)  
+❄️ Want brutal dungeons, frozen wastelands, and an **adventure path that escalates to cosmic horror?** → [_Gods of the Forbidden North_](<Gods of the Forbidden North ❄️⚔️👁️.md>)  
+🦇 Want a **surreal dungeon-crawl** with structured play? → [_His Majesty the Worm_](<His Majesty the Worm 🕯️.md>)  
+💀 Want a **truly alien underworld**? → [_Veins of the Earth_](<Veins of the Earth 🌑💀.md>)  
+🏮 Want **decadent intrigue** & procedural worldbuilding? → [_Yoon-Suin_](<Yoon-Suin 🏮🐘🌊.md>)  
+🕵️ Want to play out a **criminal empire**? → [_Blades in the Dark_](<Blades in the Dark 🌒🔪.md>)  
+🏯 Want **dreamlike adventure** in a setting that feels real? → [_A Thousand Thousand Islands_](<A Thousand Thousand Islands 🏯.md>)  
+🎭 Want a little bit of everything, but in a **decadent, unknowable Dream-City?** → [_Through Ultan’s Door_](<Through Ultan’s Door 🎭.md>)  
 
 Still **unsure**? Keep reading.  
-
-
-
 ## 📖 Index  
 
 - [🏰 Classic Dungeon Crawlers](#-classic-osr-dungeon-crawlers)  
